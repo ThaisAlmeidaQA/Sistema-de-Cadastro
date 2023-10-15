@@ -7,5 +7,5 @@
 > Atualizr os componentes pasta Lapa
 
 ```
-install Hotfix
+node app.js
 ```

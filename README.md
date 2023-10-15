@@ -4,7 +4,7 @@
 
 > Necessário baixar o projeto Beta
 
-> Atualizr os componentes pasta Lapa
+> Atualizar os componentes pasta Lapa
 
 ```
 node app.js
